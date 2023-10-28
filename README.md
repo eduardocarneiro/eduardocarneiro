@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hi there 👋
+
+<div>
+  <a href="https://github.com/eduardocarneiro">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardocarneiro"&custom_title="Eduardo O. Carneiro"&show_icons=true&theme=transparent&include_all_commits=true>
+</div>
+
 
 <!--
 **eduardocarneiro/eduardocarneiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
