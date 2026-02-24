@@ -24,8 +24,8 @@ I am actively exploring the frontiers of **Web3** and **Blockchain infrastructur
 | AWS Certified DevOps Engineer – Professional | [AWS Certified Solutions Architect – Associate](https://github.com/eduardocarneiro/aws-networking/) | [AWS Site-to-Site VPN to Home Lab](https://github.com/eduardocarneiro/aws-networking/blob/main/04-aws-vpn/01-site-to-site-vpn-with-aws-virtual-private-gateway/01-setup-aws-site-to-site-vpn-virtual-private-gateway-and-strongswan/README.md) |
 | Microsoft Certified: Azure Administrator Associate | [AWS EKS Architecture Exploration](https://github.com/eduardocarneiro/iac/tree/main/training/linuxtips-descomplicando-o-eks) | |
 | Google Cloud - Associate Cloud Engineer | [OpenShift to EKS Migration Project](https://github.com/eduardocarneiro/iac/tree/main/training/linuxtips-descomplicando-o-eks/08-aws-eks-vanilla-aws-nlb-target-group-binding-nginx-ingress-controller) | |
-| HashiCorp Certified: Terraform Associate | | |
-
+| HashiCorp Certified: Terraform Associate | [Learning Rust - W3school Tutorial](https://github.com/eduardocarneiro/code/tree/main/rust/01-w3schools)| |
+| | [Learning Web3](https://github.com/eduardocarneiro/web3)| |
 
 ---
 
