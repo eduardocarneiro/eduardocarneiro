@@ -14,7 +14,7 @@ I am actively exploring the frontiers of **Web3** and **Blockchain infrastructur
 
 * 🔭 Currently working with: **DevOps/SRE tools**, **Openshift and EKS**
 * 🌱 Learning: **more about Cloud and web3**
-* ⚡ Hobby: **Go outside with my family, play with my Daugther, Binge-watching series with my wife, study and do some Tech LABs with my VMware homelab and Clouds!!**
+* ⚡ Hobby: **Go outside with my family, play with my Daughter, Binge-watching series with my wife, study and do some Tech LABs with my VMware homelab and Clouds!!**
 
 ---
 ### 🎯 Goals 2026 (Kanban Board)
