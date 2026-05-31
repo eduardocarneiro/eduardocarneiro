@@ -8,13 +8,13 @@
 
 I started back when VMware was the big shift. Since then, I've evolved from virtualization to SaaS, mastering OpenShift and Kubernetes, and moving into DevOps/Cloud. 
 
-Currently diving deep **Kubernetes in Cloud** and some other services that Cloud can provide
+Currently diving deep into **Kubernetes in the Cloud** and exploring modern cloud native services.
 
 I am actively exploring the frontiers of **Web3** and **Blockchain infrastructure.** 🔗."
 
-* 🔭 Currently working with: **DevOps/SRE tools**, **Openshift and EKS**
-* 🌱 Learning: **more about Cloud and web3**
-* ⚡ Hobby: **Go outside with my family, play with my Daughter, Binge-watching series with my wife, study and do some Tech LABs with my VMware homelab and Clouds!!**
+* 🔭 Currently working with: **DevOps/SRE tools**, **OpenShift and EKS**
+* 🌱 Learning: **More about Cloud and Web3**
+* ⚡ Hobby: **Going outside with my family, playing with my daughter, binge-watching series with my wife, studying, and building tech labs in my VMware homelab and public clouds!**
 
 ---
 ### 🎯 Goals 2026 (Kanban Board)
