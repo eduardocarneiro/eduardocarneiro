@@ -1,7 +1,5 @@
 # Hi there, 👋 Eu sou o Eduardo.
 
----
-
 ### 🚀 About me
 
 "Tech enthusiast 🚀 | From physical servers to the Cloud ☁️
@@ -16,7 +14,6 @@ I am actively exploring the frontiers of **Web3** and **Blockchain infrastructur
 * 🌱 Learning: **More about Cloud and Web3**
 * ⚡ Hobby: **Going outside with my family, playing with my daughter, binge-watching series with my wife, studying, and building tech labs in my VMware homelab and public clouds!**
 
----
 ### 🎯 Goals 2026 (Kanban Board)
 
 | 🔴 To Do | 🟡 In Progress | 🟢 Done |
