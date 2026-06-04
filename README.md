@@ -26,7 +26,7 @@ I am actively exploring the frontiers of **Web3** and **Blockchain infrastructur
 | HashiCorp Terraform Associate | [Learning Rust (W3Schools)][link-rust] | |
 | | [Learning Web3][link-web3] | |
 
-[link-aws-sa]: https://github.com/eduardocarneiro/aws-networking/
+[link-aws-sa]: https://github.com/eduardocarneiro/study/tree/main/cloud/aws/02-aws-exams/01-saa-c03
 [link-eks-exploration]: https://github.com/eduardocarneiro/iac/tree/main/training/linuxtips-descomplicando-o-eks
 [link-eks-migration]: https://github.com/eduardocarneiro/iac/tree/main/training/linuxtips-descomplicando-o-eks/08-aws-eks-vanilla-aws-nlb-target-group-binding-nginx-ingress-controller
 [link-rust]: https://github.com/eduardocarneiro/code/tree/main/rust/01-w3schools
