@@ -30,7 +30,7 @@ I am actively exploring the frontiers of **Web3** and **Blockchain infrastructur
 [link-eks-exploration]: https://github.com/eduardocarneiro/iac/tree/main/training/linuxtips-descomplicando-o-eks
 [link-eks-migration]: https://github.com/eduardocarneiro/iac/tree/main/training/linuxtips-descomplicando-o-eks/08-aws-eks-vanilla-aws-nlb-target-group-binding-nginx-ingress-controller
 [link-rust]: https://github.com/eduardocarneiro/code/tree/main/rust/01-w3schools
-[link-web3]: https://github.com/eduardocarneiro/web3
+[link-web3]: https://github.com/eduardocarneiro/study/tree/main/web3
 [link-vpn-lab]: https://github.com/eduardocarneiro/aws-networking/blob/main/04-aws-vpn/01-site-to-site-vpn-with-aws-virtual-private-gateway/01-setup-aws-site-to-site-vpn-virtual-private-gateway-and-strongswan/README.md
 
 ---
