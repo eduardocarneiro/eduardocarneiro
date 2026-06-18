@@ -8,10 +8,10 @@ I started back when VMware was the big shift. Since then, I've evolved from virt
 
 Currently diving deep into **Kubernetes in the Cloud** and exploring modern cloud native services.
 
-I am actively exploring the frontiers of **Web3** and **Blockchain infrastructure.** 🔗."
+I am actively exploring the frontiers of **Web3**, **Blockchain infrastructure.** and **AI** 🔗."
 
 * 🔭 Currently working with: **DevOps/SRE tools**, **OpenShift and EKS**
-* 🌱 Learning: **More about Cloud and Web3**
+* 🌱 Learning: **More about Cloud, Web3 and AI**
 * ⚡ Hobby: **Going outside with my family, playing with my daughter, binge-watching series with my wife, studying, and building tech labs in my VMware homelab and public clouds!**
 
 --- 
