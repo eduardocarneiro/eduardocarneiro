@@ -25,6 +25,7 @@ I am actively exploring the frontiers of **Web3**, **Blockchain infrastructure.*
 | Google Cloud Associate Engineer | [OpenShift to EKS Migration][link-eks-migration] | |
 | HashiCorp Terraform Associate | [Learning Rust (W3Schools)][link-rust] | |
 | | [Learning Web3][link-web3] | |
+| | [Custom TMUX][link-tmux] | |
 
 [link-aws-sa]: https://github.com/eduardocarneiro/study/tree/main/cloud/aws/02-aws-exams/01-saa-c03
 [link-eks-exploration]: https://github.com/eduardocarneiro/iac/tree/main/training/linuxtips-descomplicando-o-eks
@@ -32,6 +33,7 @@ I am actively exploring the frontiers of **Web3**, **Blockchain infrastructure.*
 [link-rust]: https://github.com/eduardocarneiro/code/tree/main/rust/01-w3schools
 [link-web3]: https://github.com/eduardocarneiro/study/tree/main/web3
 [link-vpn-lab]: https://github.com/eduardocarneiro/aws-networking/blob/main/04-aws-vpn/01-site-to-site-vpn-with-aws-virtual-private-gateway/01-setup-aws-site-to-site-vpn-virtual-private-gateway-and-strongswan/README.md
+[link-tmux]: https://github.com/eduardocarneiro/study/blob/main/os/01-linux/10-general/tmux/README.md
 
 ---
 
