@@ -34,7 +34,7 @@ I am actively exploring the frontiers of **Web3**, **Blockchain infrastructure.*
 [link-web3]: https://github.com/eduardocarneiro/study/tree/main/web3
 [link-vpn-lab]: https://github.com/eduardocarneiro/aws-networking/blob/main/04-aws-vpn/01-site-to-site-vpn-with-aws-virtual-private-gateway/01-setup-aws-site-to-site-vpn-virtual-private-gateway-and-strongswan/README.md
 [link-tmux]: https://github.com/eduardocarneiro/study/blob/main/os/01-linux/10-general/tmux/README.md
-[link-tmux]: https://github.com/eduardocarneiro/study/blob/main/os/01-linux/10-general/neovim/README.md
+[link-neovim]: https://github.com/eduardocarneiro/study/blob/main/os/01-linux/10-general/neovim/README.md
 
 ---
 
