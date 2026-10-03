@@ -21,11 +21,11 @@ I am actively exploring the frontiers of **Web3**, **Blockchain infrastructure.*
 | 🔴 To Do | 🟡 In Progress | 🟢 Done |
 | :--- | :--- | :--- |
 | AWS Certified DevOps Professional | [AWS Solutions Architect][link-aws-sa] | [AWS VPN to Home Lab][link-vpn-lab] |
-| Azure Administrator Associate | [AWS EKS Exploration][link-eks-exploration] | |
+| Azure Administrator Associate | [AWS EKS Exploration][link-eks-exploration] | [Custom TMUX Setup][link-tmux]|
 | Google Cloud Associate Engineer | [OpenShift to EKS Migration][link-eks-migration] | |
 | HashiCorp Terraform Associate | [Learning Rust (W3Schools)][link-rust] | |
 | | [Learning Web3][link-web3] | |
-| | [Custom TMUX][link-tmux] | |
+| | [Custom Neovim Setup][link-neovim] | |
 
 [link-aws-sa]: https://github.com/eduardocarneiro/study/tree/main/cloud/aws/02-aws-exams/01-saa-c03
 [link-eks-exploration]: https://github.com/eduardocarneiro/iac/tree/main/training/linuxtips-descomplicando-o-eks
@@ -34,6 +34,7 @@ I am actively exploring the frontiers of **Web3**, **Blockchain infrastructure.*
 [link-web3]: https://github.com/eduardocarneiro/study/tree/main/web3
 [link-vpn-lab]: https://github.com/eduardocarneiro/aws-networking/blob/main/04-aws-vpn/01-site-to-site-vpn-with-aws-virtual-private-gateway/01-setup-aws-site-to-site-vpn-virtual-private-gateway-and-strongswan/README.md
 [link-tmux]: https://github.com/eduardocarneiro/study/blob/main/os/01-linux/10-general/tmux/README.md
+[link-tmux]: https://github.com/eduardocarneiro/study/blob/main/os/01-linux/10-general/neovim/README.md
 
 ---
 
