@@ -22,10 +22,10 @@ I am actively exploring the frontiers of **Web3**, **Blockchain infrastructure.*
 | :--- | :--- | :--- |
 | AWS Certified DevOps Professional | [AWS Solutions Architect][link-aws-sa] | [AWS VPN to Home Lab][link-vpn-lab] |
 | Azure Administrator Associate | [AWS EKS Exploration][link-eks-exploration] | [Custom TMUX Setup][link-tmux]|
-| Google Cloud Associate Engineer | [OpenShift to EKS Migration][link-eks-migration] | |
+| Google Cloud Associate Engineer | [OpenShift to EKS Migration][link-eks-migration] | [Custom Neovim Setup][link-neovim]|
 | HashiCorp Terraform Associate | [Learning Rust (W3Schools)][link-rust] | |
 | | [Learning Web3][link-web3] | |
-| | [Custom Neovim Setup][link-neovim] | |
+| | Advanced IDE for AI DevOps/SRE Automation | |
 
 [link-aws-sa]: https://github.com/eduardocarneiro/study/tree/main/cloud/aws/02-aws-exams/01-saa-c03
 [link-eks-exploration]: https://github.com/eduardocarneiro/iac/tree/main/training/linuxtips-descomplicando-o-eks
